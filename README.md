@@ -49,13 +49,13 @@ I'm a passionate polyglot developer with a deep interest in **AI**, **machine le
 
 ## 🏆 Notable Projects
 
-### 🧠 [The Incredible Rust](https://incrediblerust.github.io/)
+### 🧠 [The Incredible Rust](https://incrediblerust.github.io/) *Building*
 Application to learn the Rust programming language
 
-### 🤖 [ClaudeContextTerminal](https://github.com/charlenopires/ClaudeContextTerminal)
+### 🤖 [ClaudeContextTerminal](https://github.com/charlenopires/ClaudeContextTerminal) *Building*
 Terminal interface for AI-powered coding assistance
 
-### 📚 [ePubReader](https://github.com/charlenopires/ePubReader)
+### 📚 [ePubReader](https://github.com/charlenopires/ePubReader) *Building*
 Multilingual ebook translation application
 
 ### 📄 [md2pdf](https://github.com/charlenopires/md2pdf)
