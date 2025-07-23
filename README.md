@@ -43,7 +43,7 @@ I'm a passionate polyglot developer with a deep interest in **AI**, **machine le
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlenopires&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/charlenopires)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlenopires&theme=tokyonight&hide_border=true)](https://github.com/charlenopires)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charlenopires)](https://git.io/streak-stats)
 
 </div>
 
