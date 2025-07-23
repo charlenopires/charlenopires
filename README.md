@@ -49,7 +49,7 @@ I'm a passionate polyglot developer with a deep interest in **AI**, **machine le
 
 ## 🏆 Notable Projects
 
-### 🧠 [The Incredible Rust] (https://incrediblerust.github.io/)
+### 🧠 [The Incredible Rust](https://incrediblerust.github.io/)
 Application to learn the Rust programming language
 
 ### 🤖 [ClaudeContextTerminal](https://github.com/charlenopires/ClaudeContextTerminal)
