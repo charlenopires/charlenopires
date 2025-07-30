@@ -52,6 +52,9 @@ I'm a passionate polyglot developer with a deep interest in **AI**, **machine le
 ### 🧠 [The Incredible Rust](https://incrediblerust.github.io/) *Building*
 Application to learn the Rust programming language
 
+### 🧠 [MCP Servers](https://github.com/charlenopires/mcp-servers)
+MCP Servers to Optimize Vibe Coding Development
+
 ### 🤖 [ClaudeContextTerminal](https://github.com/charlenopires/ClaudeContextTerminal) *Building*
 Terminal interface for AI-powered coding assistance
 
