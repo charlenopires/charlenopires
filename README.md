@@ -55,7 +55,7 @@ Application to learn the Rust programming language
 ### 🧠 [MCP Servers](https://github.com/charlenopires/mcp-servers)
 MCP Servers to Optimize Vibe Coding Development
 
-### 🤖 [ClaudeContextTerminal](https://github.com/charlenopires/ClaudeContextTerminal) *Building*
+### 🤖 [Goofy](https://github.com/charlenopires/goofy) *Building*
 Terminal interface for AI-powered coding assistance
 
 ### 📚 [ePubReader](https://github.com/charlenopires/ePubReader) *Building*
