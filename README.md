@@ -49,6 +49,9 @@ I'm a passionate polyglot developer with a deep interest in **AI**, **machine le
 
 ## 🏆 Notable Projects
 
+### 🤖 [IA Com Cuscuz](https://iacomcuscuz.github.io/) *Building*
+Free Artificial Intelligence Teaching Platform in Portuguese Brazilian
+
 ### 🧠 [The Incredible Rust](https://incrediblerust.github.io/) *Building*
 Application to learn the Rust programming language
 
