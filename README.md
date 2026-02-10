@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%A7%A0+Building+cognitive+architectures+that+think;%F0%9F%A6%80+Rust+%7C+Elixir+%7C+Python+%7C+TypeScript+%7C+Dart;%F0%9F%8C%8D+From+Amarante%2C+Brazil+to+the+world;%E2%9A%A1+If+it%27s+not+a+challenge%2C+it%27s+not+interesting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%A7%A0+Building+cognitive+architectures+that+think;%F0%9F%A6%80+Rust+%7C+Elixir+%7C+Python+%7C+TypeScript+%7C+Dart;%F0%9F%8C%8D+From+Amarante%2C+Brazil+to+the+world;%E2%9A%A1+If+it%27s+not+a+challenge%2C+it%27s+not+interesting)](https://git.io/typing-svg)
 
 </div>
 
