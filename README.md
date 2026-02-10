@@ -75,27 +75,23 @@ I'm a **creative polyglot developer** from **Amarante, Piaui, Brazil** who belie
 
 ### :brain: AI & Cognitive Systems
 
-<div align="center">
-
-[![codegraph](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=codegraph&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/codegraph)
-[![semantic](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=semantic&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/semantic)
-[![cwa](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=cwa&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/cwa)
-[![mini-gpt-rust](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=mini-gpt-rust&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/mini-gpt-rust)
-[![mcp-servers](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=mcp-servers&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/mcp-servers)
-[![FlaFludeAgentes](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=FlaFludeAgentes&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/FlaFludeAgentes)
-
-</div>
+| | Project | Description | Tech |
+|---|---------|-------------|------|
+| :spider_web: | **[codegraph](https://github.com/charlenopires/codegraph)** | Hybrid GraphRAG system with NARS reasoning for UI code generation | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :dna: | **[semantic](https://github.com/charlenopires/semantic)** | Cognitive Data Structure -- reasoning-first data architecture | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :gear: | **[cwa](https://github.com/charlenopires/cwa)** | Claude Workflow Architect -- AI-powered development orchestration | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :zap: | **[mini-gpt-rust](https://github.com/charlenopires/mini-gpt-rust)** | MiniGPT implementation in Rust focused on Portuguese language training | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :electric_plug: | **[mcp-servers](https://github.com/charlenopires/mcp-servers)** | MCP servers optimizing AI-powered development workflows | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
+| :busts_in_silhouette: | **[FlaFludeAgentes](https://github.com/charlenopires/FlaFludeAgentes)** | Multi-agent orchestration demo using Google ADK protocol | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
 
 ### :wrench: Developer Tools & Productivity
 
-<div align="center">
-
-[![goofy](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=goofy&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/goofy)
-[![ADHDReminderExtension](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=ADHDReminderExtension&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/ADHDReminderExtension)
-[![ePubReader](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=ePubReader&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/ePubReader)
-[![SessionKeeper](https://github-readme-stats.vercel.app/api/pin/?username=charlenopires&repo=SessionKeeper&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/charlenopires/SessionKeeper)
-
-</div>
+| | Project | Description | Tech |
+|---|---------|-------------|------|
+| :robot: | **[goofy](https://github.com/charlenopires/goofy)** | AI terminal application for software development tasks | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :bell: | **[ADHDReminderExtension](https://github.com/charlenopires/ADHDReminderExtension)** | Chrome extension for task reminder management and productivity | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000) |
+| :books: | **[ePubReader](https://github.com/charlenopires/ePubReader)** | ePub reader with automatic multilingual content translation | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :bookmark_tabs: | **[SessionKeeper](https://github.com/charlenopires/SessionKeeper)** | Chrome extension for saving and restoring browsing sessions | ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=fff) |
 
 ---
 
@@ -119,6 +115,11 @@ I'm a **creative polyglot developer** from **Amarante, Piaui, Brazil** who belie
 ## :trophy: Achievements
 
 <div align="center">
+
+![Open Source](https://img.shields.io/badge/Open_Source-25+_Repos-A855F7?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-10+-00D4FF?style=for-the-badge&logo=polywork&logoColor=white)
+![AI Projects](https://img.shields.io/badge/AI_Projects-6+-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-2-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charlenopires&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
