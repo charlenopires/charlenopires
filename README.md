@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Charleno%20Pires&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Creative%20Polyglot%20Developer%20%7C%20AI%20Architect%20%7C%20Challenge%20Seeker&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%A7%A0+Building+cognitive+architectures+that+think;%F0%9F%A6%80+Rust+%7C+Elixir+%7C+Python+%7C+TypeScript+%7C+Erlang+%7C+Dart;%F0%9F%8C%8D+From+Amarante%2C+Brazil+to+the+world;%E2%9A%A1+If+it%27s+not+a+challenge%2C+it%27s+not+interesting)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%A7%A0+Building+cognitive+architectures+that+think;%F0%9F%A6%80+Rust+%7C+Elixir+%7C+Python+%7C+TypeScript+%7C+Erlang+%7C+Dart;%F0%9F%8C%8D+From+Amarante%2C+Brazil+to+the+world;%E2%9A%A1+If+it%27s+not+a+challenge%2C+it%27s+not+interesting)](https://git.io/typing-svg)
 
 </div>
 
