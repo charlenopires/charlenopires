@@ -78,7 +78,7 @@ I'm a **creative polyglot developer** from **Amarante, Piaui, Brazil** who belie
 | | Project | Description | Tech |
 |---|---------|-------------|------|
 | :spider_web: | **[codegraph](https://github.com/charlenopires/codegraph)** | Hybrid GraphRAG system with NARS reasoning for UI code generation | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
-| :dna: | **[semantic](https://github.com/charlenopires/semantic)** | Cognitive Data Structure -- reasoning-first data architecture | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :dna: | **[semantic](https://github.com/charlenopires/semantic_dna)** | Cognitive Data Structure -- reasoning-first data architecture | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
 | :gear: | **[cwa](https://github.com/charlenopires/cwa)** | Claude Workflow Architect -- AI-powered development orchestration | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
 | :zap: | **[mini-gpt-rust](https://github.com/charlenopires/mini-gpt-rust)** | MiniGPT implementation in Rust focused on Portuguese language training | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
 | :electric_plug: | **[mcp-servers](https://github.com/charlenopires/mcp-servers)** | MCP servers optimizing AI-powered development workflows | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
