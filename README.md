@@ -83,15 +83,26 @@ I'm a **creative polyglot developer** from **Amarante, Piaui, Brazil** who belie
 | :zap: | **[mini-gpt-rust](https://github.com/charlenopires/mini-gpt-rust)** | MiniGPT implementation in Rust focused on Portuguese language training | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
 | :electric_plug: | **[mcp-servers](https://github.com/charlenopires/mcp-servers)** | MCP servers optimizing AI-powered development workflows | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
 | :busts_in_silhouette: | **[FlaFludeAgentes](https://github.com/charlenopires/FlaFludeAgentes)** | Multi-agent orchestration demo using Google ADK protocol | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
+| :label: | **[ner](https://github.com/charlenopires/ner)** | Named Entity Recognition (NER) implementation in Rust | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
 
 ### :wrench: Developer Tools & Productivity
 
 | | Project | Description | Tech |
 |---|---------|-------------|------|
 | :robot: | **[goofy](https://github.com/charlenopires/goofy)** | AI terminal application for software development tasks | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
-| :bell: | **[ADHDReminderExtension](https://github.com/charlenopires/ADHDReminderExtension)** | Chrome extension for task reminder management and productivity | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000) |
 | :books: | **[ePubReader](https://github.com/charlenopires/ePubReader)** | ePub reader with automatic multilingual content translation | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
-| :bookmark_tabs: | **[SessionKeeper](https://github.com/charlenopires/SessionKeeper)** | Chrome extension for saving and restoring browsing sessions | ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=fff) |
+| :file_folder: | **[md2pdf](https://github.com/charlenopires/md2pdf)** | Markdown to PDF converter | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust) |
+| :fire: | **[PhiaUI](https://github.com/charlenopires/PhiaUI)** | Enterprise-ready Phoenix LiveView component library inspired by shadcn/ui | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=fff) |
+
+### :puzzle_piece: Chrome Extensions
+
+| | Project | Description | Tech |
+|---|---------|-------------|------|
+| :art: | **[getds](https://github.com/charlenopires/getds)** | Automatically extract design tokens and UI patterns from any web page | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000) |
+| :bell: | **[ADHDReminderExtension](https://github.com/charlenopires/ADHDReminderExtension)** | Chrome extension for task reminder management and ADHD focus | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000) |
+| :abacus: | **[base64decode-chromeextension](https://github.com/charlenopires/base64decode-chromeextension)** | Fast Base64 decoder utility for developers | ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=fff) |
+| :bookmark_tabs: | **[SessionKeeper](https://github.com/charlenopires/SessionKeeper)** | Save, organize, and restore your browsing workflow with ease | ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=fff) |
+| :movie_camera: | **[ChromeRec](https://github.com/charlenopires/ChromeRec)** | Record any Chrome tab with a single click | ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=fff) |
 
 ---
 
